@@ -1,8 +1,8 @@
 # among5094
 
 - 👋 Hi, I’m @among5094
-- 🌱 I’m a freshman in computer engineering
-- 🌈 I’m currently learning...
+- 📖 I’m a freshman in computer engineering
+- 🌱I’m currently learning...
 
 <div align=center>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
