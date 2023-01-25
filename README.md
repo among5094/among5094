@@ -1,10 +1,6 @@
 # among5094
 
 - 👋 안녕하세요 among5094입니다.
- Hi, I’m @among5094
-
-- 📖 저는 컴퓨터공학과 대학교 1학년생입니다.
- I’m a freshman in computer engineering
  
 - 🌱제가 배우고 있는 언어는...
  I’m currently learning...
