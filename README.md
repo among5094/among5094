@@ -1,7 +1,7 @@
 # among5094
 
 - 👋 안녕하세요 among5094입니다.
- 
+ <!---
 - 🌱제가 배우고 있는 언어는...
  I’m currently learning...
  
@@ -11,7 +11,7 @@
 </div>
 
 
-<!---
+
 among5094/among5094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
